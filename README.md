@@ -30,11 +30,15 @@ An interactive dashboard is created to visualize trends and support data-driven 
 
  
 
-## 🛠 Tools Used
+##  Tools Used
 - Power BI  
 - Data Cleaning  
 - Data Visualization  
-- Data Analysis  
+- Data Analysis
+
+## Dashboard Preview
+<img width="960" height="504" alt="Dashboard2" src="https://github.com/user-attachments/assets/098a37a0-705f-4c37-bb7b-84dad814f6c2" />
+
 
  
 
